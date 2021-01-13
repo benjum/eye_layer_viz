@@ -3,6 +3,3 @@ ipywidgets
 matplotlib
 h5py
 numpy
-pyviz
-holoviews
-bokeh
