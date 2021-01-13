@@ -1,0 +1,7 @@
+pandas
+ipywidgets
+matplotlib
+h5py
+numpy
+skimage
+holoviews
