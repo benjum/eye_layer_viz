@@ -3,5 +3,5 @@ ipywidgets
 matplotlib
 h5py
 numpy
-skimage
+scikit-image
 holoviews
